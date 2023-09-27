@@ -1,0 +1,89 @@
+/* Base Tailwind CSS */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom CSS */
+
+.hero-text {
+  animation: fade-in 1s ease-in;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.project {
+  animation: slide-in-bottom 1s ease-in;
+}
+
+@keyframes slide-in-bottom {
+  from {
+    transform: translateY(100px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.internship {
+  animation: slide-in-left 1s ease-in;
+}
+
+@keyframes slide-in-left {
+  from {
+    transform: translateX(-100px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.event {
+  animation: slide-in-right 1s ease-in;
+}
+
+@keyframes slide-in-right {
+  from {
+    transform: translateX(100px);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+/* Gold and black color scheme */
+
+body {
+  background-color: black;
+  color: gold;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: gold;
+}
+
+a {
+  color: gold;
+}
+
+ul, li {
+  color: gold;
+}
+
+.btn {
+  background-color: gold;
+  color: black;
+}

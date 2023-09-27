@@ -1,89 +1,102 @@
-/* Base Tailwind CSS */
-
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* Custom CSS */
-
-.hero-text {
-  animation: fade-in 1s ease-in;
-}
-
-@keyframes fade-in {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
-.project {
-  animation: slide-in-bottom 1s ease-in;
-}
-
-@keyframes slide-in-bottom {
-  from {
-    transform: translateY(100px);
-    opacity: 0;
-  }
-  to {
-    transform: translateY(0);
-    opacity: 1;
-  }
-}
-
-.internship {
-  animation: slide-in-left 1s ease-in;
-}
-
-@keyframes slide-in-left {
-  from {
-    transform: translateX(-100px);
-    opacity: 0;
-  }
-  to {
-    transform: translateX(0);
-    opacity: 1;
-  }
-}
-
-.event {
-  animation: slide-in-right 1s ease-in;
-}
-
-@keyframes slide-in-right {
-  from {
-    transform: translateX(100px);
-    opacity: 0;
-  }
-  to {
-    transform: translateX(0);
-    opacity: 1;
-  }
-}
-
-/* Gold and black color scheme */
-
+/* Global Styles */
 body {
-  background-color: black;
-  color: gold;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  color: gold;
+    background-color: #1a1a1a; /* Dark background color */
+    color: #ffd700; /* Gold text color */
+    font-family: Arial, sans-serif;
 }
 
 a {
-  color: gold;
+    color: #ffd700; /* Gold link color */
+    text-decoration: none;
 }
 
-ul, li {
-  color: gold;
+/* Header Styles */
+header {
+    background-color: #ffd700; /* Gold header background */
+    padding: 20px;
+    text-align: center;
 }
 
+header h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+header h3 {
+    font-size: 24px;
+}
+
+/* Section Styles with Animations */
+.skills,
+.projects,
+.internships,
+.events {
+    margin-top: 40px;
+    padding: 20px;
+    border: 2px solid #ffd700;
+    border-radius: 10px;
+    background-color: #1a1a1a;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+}
+
+@keyframes fade-in {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.skills {
+    animation-name: fade-in;
+}
+
+@keyframes slide-in-left {
+    from {
+        opacity: 0;
+        transform: translateX(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.projects {
+    animation-name: slide-in-left;
+}
+
+@keyframes slide-in-right {
+    from {
+        opacity: 0;
+        transform: translateX(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.internships {
+    animation-name: slide-in-right;
+}
+
+/* Button Style */
 .btn {
-  background-color: gold;
-  color: black;
+    background-color: #ffd700;
+    color: #1a1a1a;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+    background-color: #ff9900; /* Slightly darker gold on hover */
 }

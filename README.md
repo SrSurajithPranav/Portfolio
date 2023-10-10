@@ -1,3 +1,4 @@
+<link rel="icon" href="https://www.flaticon.com/free-icon/folder_4150975?term=portfolio&page=2&position=48&origin=tag&related_id=4150975" type="image/x-icon">
 # 💫 About Me:
 Dedicated data enthusiast with a deep passion for analytics, armed with exceptional skills in Python, SQL, R, and a keen aptitude for data analysis. My commitment to unlocking the power of data to inform strategic decisions and tackle intricate challenges sets me apart. I am eager to channel my analytical prowess into high-impact projects, driving success through data-driven precision.
 

@@ -28,10 +28,8 @@ Dedicated data enthusiast with a deep passion for analytics, armed with exceptio
 
 ## Internships
 
-<a href="https://drive.google.com/file/d/1iz3Kg9U37A6eECPKlgK2LJ67q4_Laz60/view?usp=drivesdk" target="_blank">
-    IBM SKILLSBUILD & EDUNET AI INTERNSHIP
-</a>
 
+[![Edunet Foundation-IBM Skillsbuild AI Intern](https://img.shields.io/badge/Mathworks%20Matlab%20Onramp-%23F37626.svg?logo=mathworks&logoColor=white)](https://www.linkedin.com/posts/surajith-pranav-234a2b221_edunet-ibm-skillsbuild-ai-internship-activity-7117755621604560896-CvyF?utm_source=share&utm_medium=member_desktop)
 <br/>
 
 <a href="https://aictecert.eduskillsfoundation.org/pages/home/verify.php?cert=4a03a8304212502d858eabfdf4d05914" target="_blank">

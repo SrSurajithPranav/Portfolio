@@ -35,7 +35,7 @@ Dedicated data enthusiast with a deep passion for analytics, armed with exceptio
 
 <br/>
 <a href="https://aictecert.eduskillsfoundation.org/pages/home/verify.php?cert=4a03a8304212502d858eabfdf4d05914" target="_blank">
-  <img src="https://eduskillsfoundation.org/wp-content/uploads/2022/09/LOGO_EduSkills.png" alt="EDUSKILLS & AWSACADEMY DATA ANALYTICS INTERNSHIP" width="100" style="filter: brightness(0) invert(1);">
+  <img src="https://eduskillsfoundation.org/wp-content/uploads/2022/09/LOGO_EduSkills.png" alt="EDUSKILLS & AWSACADEMY DATA ANALYTICS INTERNSHIP" width="100" style="filter:">
 </a>
 <a href="https://aictecert.eduskillsfoundation.org/pages/home/verify.php?cert=4a03a8304212502d858eabfdf4d05914" style="color: red;">Data Analytics Intern</a>
 

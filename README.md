@@ -62,4 +62,3 @@ Dedicated data enthusiast with a deep passion for analytics, armed with exceptio
 ---
 [![](https://visitcount.itsvg.in/api?id=SrSurajithPranav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![](https://visitcount.itsvg.in/api?id=Surajithpranav&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)

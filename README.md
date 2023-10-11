@@ -28,13 +28,17 @@ Dedicated data enthusiast with a deep passion for analytics, armed with exceptio
 
 ## Internships
 
-
-[![Edunet Foundation-IBM Skillsbuild AI Intern](https://img.shields.io/badge/Mathworks%20Matlab%20Onramp-%23F37626.svg?logo=mathworks&logoColor=white)](https://www.linkedin.com/posts/surajith-pranav-234a2b221_edunet-ibm-skillsbuild-ai-internship-activity-7117755621604560896-CvyF?utm_source=share&utm_medium=member_desktop)
-<br/>
-
-<a href="https://aictecert.eduskillsfoundation.org/pages/home/verify.php?cert=4a03a8304212502d858eabfdf4d05914" target="_blank">
-    EDUSKILLS & AWSACADEMY DATA ANALYTICS INTERNSHIP
+<a href="https://www.linkedin.com/posts/surajith-pranav-234a2b221_edunet-ibm-skillsbuild-ai-internship-activity-7117755621604560896-CvyF?utm_source=share&utm_medium=member_desktop">
+  <img src="https://edunetfoundation.org/wp-content/uploads/2022/06/edunet-logo-white.png" alt="Edunet Foundation-IBM Skillsbuild AI Intern" width="100">
 </a>
+<a href="https://www.linkedin.com/posts/surajith-pranav-234a2b221_edunet-ibm-skillsbuild-ai-internship-activity-7117755621604560896-CvyF?utm_source=share&utm_medium=member_desktop" style="color: red;">AI Intern</a>
+
+<br/>
+<a href="https://aictecert.eduskillsfoundation.org/pages/home/verify.php?cert=4a03a8304212502d858eabfdf4d05914" target="_blank">
+  <img src="https://eduskillsfoundation.org/wp-content/uploads/2022/09/LOGO_EduSkills.png" alt="EDUSKILLS & AWSACADEMY DATA ANALYTICS INTERNSHIP" width="100" style="filter: brightness(0) invert(1);">
+</a>
+<a href="https://aictecert.eduskillsfoundation.org/pages/home/verify.php?cert=4a03a8304212502d858eabfdf4d05914" style="color: red;">Data Analytics Intern</a>
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)

@@ -29,7 +29,7 @@ Dedicated data enthusiast with a deep passion for analytics, armed with exceptio
 ## Internships
 
 <a href="https://www.linkedin.com/posts/surajith-pranav-234a2b221_edunet-ibm-skillsbuild-ai-internship-activity-7117755621604560896-CvyF?utm_source=share&utm_medium=member_desktop">
-  <img src="https://drive.google.com/file/d/1UFUPbkgxInJ2VhXbiSOF6JW2n0N7C-UI/view?usp=drive_link" alt="Edunet Foundation-IBM Skillsbuild AI Intern" width="100">
+  <img src="https://edunetfoundation.org/wp-content/uploads/2022/06/edunet-logo-white.png" alt="Edunet Foundation-IBM Skillsbuild AI Intern" width="100">
 </a>
 <a href="https://www.linkedin.com/posts/surajith-pranav-234a2b221_edunet-ibm-skillsbuild-ai-internship-activity-7117755621604560896-CvyF?utm_source=share&utm_medium=member_desktop" style="color: red;">AI Intern</a>
 

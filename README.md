@@ -20,7 +20,7 @@ Dedicated data enthusiast with a deep passion for analytics, armed with exceptio
 
 [![Google Cloud Generative AI](https://img.shields.io/badge/Google%20Cloud%20Generative%20AI-%234285F4.svg?logo=google-cloud&logoColor=white)](https://www.cloudskillsboost.google/public_profiles/1fbab635-a73e-41d3-a42a-a2736598bbc6/badges/5237458)
 
-[![Cisco Networking Basics](https://img.shields.io/badge/Cisco%20Networking%20Basics-%23202229.svg?logo=cisco&logoColor=blue)](https://www.credly.com/badges/3eb3dee2-8ceb-4f8e-9aed-8daf3bf43f59/linked_in_profile)
+[![Cisco Networking Basics](https://img.shields.io/badge/Cisco%20Networking%20Basics-%23202229.svg?logo=cisco&logoColor=red)](https://www.credly.com/badges/3eb3dee2-8ceb-4f8e-9aed-8daf3bf43f59/linked_in_profile)
 
 [![IBM Getting Started With Enterprise Data Science](https://img.shields.io/badge/IBM%20Getting%20Started%20With%20Enterprise%20Data%20Science-%230054FF.svg?logo=ibm&logoColor=white)](https://www.credly.com/badges/b282afcd-9726-49db-bbb8-0a7bcdd6bdcd/linked_in_profile)
 
@@ -29,7 +29,7 @@ Dedicated data enthusiast with a deep passion for analytics, armed with exceptio
 ## Internships
 
 <a href="https://www.linkedin.com/posts/surajith-pranav-234a2b221_edunet-ibm-skillsbuild-ai-internship-activity-7117755621604560896-CvyF?utm_source=share&utm_medium=member_desktop">
-  <img src="https://edunetfoundation.org/wp-content/uploads/2022/06/edunet-logo-white.png" alt="Edunet Foundation-IBM Skillsbuild AI Intern" width="100">
+  <img src="https://drive.google.com/file/d/1UFUPbkgxInJ2VhXbiSOF6JW2n0N7C-UI/view?usp=drive_link" alt="Edunet Foundation-IBM Skillsbuild AI Intern" width="100">
 </a>
 <a href="https://www.linkedin.com/posts/surajith-pranav-234a2b221_edunet-ibm-skillsbuild-ai-internship-activity-7117755621604560896-CvyF?utm_source=share&utm_medium=member_desktop" style="color: red;">AI Intern</a>
 

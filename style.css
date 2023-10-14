@@ -1,0 +1,26 @@
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav-menu {
+  list-style: none;
+  padding: 0;
+}
+
+.nav-item {
+  margin-right: 2em;
+}
+
+.nav-item a {
+  color: black;
+}
+
+.nav-item:hover {
+  background-color: gray;
+}
+
+.nav-item a:active {
+  background-color: #ccc;
+}

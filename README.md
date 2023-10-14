@@ -1,3 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="sidebar">
+    <ul>
+      <li><a href="#">About Me</a></li>
+      <li><a href="#">Socials</a></li>
+      <li><a href="#">Tech Stack</a></li>
+      <li><a href="#">GitHub Stats</a></li>
+      <li><a href="#">GitHub Trophies</a></li>
+      <li><a href="#">Course Certifications</a></li>
+      <li><a href="#">Internships</a></li>
+    </ul>
+  </div>
+  <div class="sidebar-toggle">
+    <button>☰</button>
+  </div>
+  <div class="content">
+    <h1>About Me</h1>
+    <p>
+      Dedicated data enthusiast with a deep passion for analytics, armed with exceptional skills in Python, SQL, R, and a keen aptitude for data analysis. My commitment to unlocking the power of data to inform strategic decisions and tackle intricate challenges sets me apart. I am eager to channel my analytical prowess into high-impact projects, driving success through data-driven precision.
+    </p>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
 # 💫 About Me:
 Dedicated data enthusiast with a deep passion for analytics, armed with exceptional skills in Python, SQL, R, and a keen aptitude for data analysis. My commitment to unlocking the power of data to inform strategic decisions and tackle intricate challenges sets me apart. I am eager to channel my analytical prowess into high-impact projects, driving success through data-driven precision.
 

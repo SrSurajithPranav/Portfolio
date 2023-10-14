@@ -36,7 +36,7 @@
   <img src="https://streak-stats.demolab.com?user=SrSurajithPranav&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrSurajithPranav&amp;theme=dark&amp;hide_border=false" alt=""><br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrSurajithPranav&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt=""></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SrSurajithPranav&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=false&amp;layout=compact" alt="">
 <h2 id="-github-trophies">🏆 GitHub Trophies</h2>
 <p><img src="https://github-profile-trophy.vercel.app/?username=SrSurajithPranav&amp;theme=radical&amp;no-frame=false&amp;no-bg=true&amp;margin-w=4" alt=""></p>
 <h3 id="-random-dev-quote">✍ Random Dev Quote</h3>

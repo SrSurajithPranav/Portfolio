@@ -226,3 +226,28 @@ section.services .card-wrapper .card:hover{
 section.services .card-wrapper .card:hover h2, section.services .card-wrapper .card:hover p{
     color:var(--pure);
 }
+/* Add this to your CSS file */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideIn {
+    from { transform: translateX(-100%); }
+    to { transform: translateX(0); }
+}
+
+.section {
+    animation: fadeIn 2s forwards;
+}
+
+.hero {
+    animation: slideIn 2s forwards;
+}
+
+/* Add this to your JavaScript file */
+document.querySelectorAll('.section').forEach((section, index) => {
+    section.style.animationDelay = `${index * 0.5}s`;
+});
+
+document.querySelector('.hero').style.animationDelay = '1s';
